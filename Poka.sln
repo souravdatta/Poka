@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poka", "Poka\Poka.csproj", "{A9EDD439-1074-4E8B-B188-D1E55EDB79F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokaRepl", "PokaRepl\PokaRepl.csproj", "{D40EC57F-0990-4D5E-B942-03BFCB63867B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A9EDD439-1074-4E8B-B188-D1E55EDB79F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9EDD439-1074-4E8B-B188-D1E55EDB79F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9EDD439-1074-4E8B-B188-D1E55EDB79F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40EC57F-0990-4D5E-B942-03BFCB63867B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40EC57F-0990-4D5E-B942-03BFCB63867B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40EC57F-0990-4D5E-B942-03BFCB63867B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40EC57F-0990-4D5E-B942-03BFCB63867B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
