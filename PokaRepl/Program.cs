@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Poka;
+
+var evaluator = new PokaEvaluator();
+evaluator.Eval("[1 2.0 3] 3.23 + {foo| + reduce}");
